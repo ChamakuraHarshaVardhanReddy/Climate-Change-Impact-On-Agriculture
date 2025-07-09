@@ -23,7 +23,7 @@ Year,Country,Region,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_E
 2016,India,West Bengal,Soybeans,14,1240.49,29.18,4.032,9,29.32,37.8,99.09,46.32,No Adaptation,1745.39
 1996,Argentina,Northwest,Coffee,21.59,666.95,28.44,1.584,10,41.15,18.3,85.97,35.89,Drought-resistant Crops,384.91
 2010,Australia,Victoria,Coffee,20.85,2294.81,8.66,2.82,3,39.88,29.31,79.91,59.92,Drought-resistant Crops,1222.94
-2002,France,Nouvelle-Aquitaine,Vegetables,20.22,227.39,16.61,2.628,5,34.96,16.61,72.55,72.74,Water Management,317.9
+2002,France,Nouvelle-Aquitaine,Vegetables,20.22,227.39,16.61,2.628,5,34.96,16.61,72.55,72.74,Water Management,317.95
 1996,USA,South,Soybeans,27.73,1673.81,26.56,3.285,1,88.61,29.11,27.82,96.4,No Adaptation,1492.19
 2021,Canada,Quebec,Fruits,-0.57,2124.21,7.63,1.48,4,32.79,42.52,85.46,88.57,No Adaptation,432.78
 2011,Brazil,Southeast,Corn,15.75,1433.31,11.91,2.08,6,79.2,25.19,67.56,55.03,Organic Farming,933.72
